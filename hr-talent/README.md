@@ -1,7 +1,6 @@
 # 🧑‍💼 Agentic HR Management
 `Chat with documents` `RAG` `Flows` `Intelligent Document Processing` `Multi-agent orchestration`
-<img width="993" alt="Screenshot 2025-09-24 at 3 57 57 PM" src="../data/img1.png">
-
+<img width="993" alt="Screenshot 2025-09-24 at 3 57 57 PM" src="data/img1.png">
 
 ## 🤔 The Problem
 
@@ -35,7 +34,7 @@ Luisa and her team would be able to save hundreds of hours spent scanning résum
 
 ## 🏛️ The solution
 
-<img width="1719" alt="Screenshot 2025-09-22 at 9 16 06 PM" src="../data/img2.png">
+<img width="1719" alt="Screenshot 2025-09-22 at 9 16 06 PM" src="data/img2.png">
 
 ## 🎥 Demo
 
